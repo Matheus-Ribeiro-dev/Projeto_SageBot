@@ -2,7 +2,7 @@
 
 Protótipo funcional de um chatbot de WhatsApp que responde a perguntas de Business Intelligence em linguagem natural.
 
-*Assista o vídeo de demonstração no YouTube: [pendente]*
+*Assista o vídeo de demonstração no YouTube: https://youtu.be/slUjrW1J31g*
 
 ---
 
@@ -44,14 +44,14 @@ Este projeto não é um script único, mas sim um sistema de dois microsserviço
 1.  **Pré-requisitos:** Node.js v20+, Python 3.9+, Git.
 2.  **Clone o repositório:**
     \`\`\`bash
-    git clone [SEU_LINK_DO_GITHUB_AQUI]
+    git clone https://github.com/Matheus-Ribeiro-dev/Projeto_SageBot
     cd projeto-sagebot
     \`\`\`
 3.  **Setup do Backend (Python):**
     \`\`\`bash
     python -m venv venv
     source venv/bin/activate  # (Ou .\\venv\\Scripts\\Activate.ps1 no PowerShell)
-    pip install -r requirements.txt # (Crie um requirements.txt com 'pip freeze > requirements.txt')
+    pip install -r requirements.txt 
     python api.py
     \`\`\`
 4.  **Setup do Bot (Node.js):**

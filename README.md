@@ -61,4 +61,4 @@ Este projeto não é um script único, mas sim um sistema de dois microsserviço
     Adicione sua GEMINI_API_KEY no .env
     node bot.js
     \`\`\`
-5.  Escaneie o QR Code e teste!
+5.  **Escaneie o QR Code e teste!**

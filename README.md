@@ -57,7 +57,9 @@ Este projeto não é um script único, mas sim um sistema de dois microsserviço
 4.  **Setup do Bot (Node.js):**
     \`\`\`bash
     npm install
+    
     cp .env.example .env
+    
     Adicione sua GEMINI_API_KEY no .env
     
     node bot.js

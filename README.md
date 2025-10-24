@@ -58,7 +58,7 @@ Este projeto não é um script único, mas sim um sistema de dois microsserviço
     \`\`\`bash
     npm install
     cp .env.example .env
-    # Adicione sua GEMINI_API_KEY no .env
+    Adicione sua GEMINI_API_KEY no .env
     node bot.js
     \`\`\`
 5.  Escaneie o QR Code e teste!
